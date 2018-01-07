@@ -15,6 +15,11 @@ You can also monitor what colour the the led is at in the serial monitor
 If there's any issues or questions please contact my email at: jmere36@icloud.com
 
 
+# Download
+
+https://github.com/jmere36/RGB_Button/releases
+
+
 # Connections
 Red led is connected to pin 9
 
